@@ -19,13 +19,15 @@ Hey JavaScript fans! Today, we'll explore how to declare variables in JavaScript
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726249698472/ef31ae96-7dc5-40c1-aa5e-40438f066493.jpeg align="left")
 
+```xml
 ╔═════════════╦═════════════════╦════════════════╗  
-║ Keyword ║ Scope ║ Reassignment ║  
+║ Keyword     ║ Scope           ║ Reassignment   ║  
 ╠═════════════╬═════════════════╬════════════════╣  
-║ var ║ Function scope ║ Allowed ║  
-║ let ║ Block scope ║ Allowed ║  
-║ const ║ Block scope ║ Not allowed ║  
+║ var         ║ Function scope  ║ Allowed        ║  
+║ let         ║ Block scope     ║ Allowed        ║  
+║ const       ║ Block scope     ║ Not allowed    ║  
 ╚═════════════╩═════════════════╩════════════════╝
+```
 
 ## Why Shouldn’t We Use Var in JavaScript?
 
