@@ -39,9 +39,9 @@ Hey JavaScript fans! Today, we'll explore how to declare variables in JavaScript
 ```javascript
 function myFunction() {
 if (true) {
-var x = 10;
+var x = 20;
 }
-console.log(x); // Output: 10
+console.log(x); // Output: 20
 }
 ```
 
