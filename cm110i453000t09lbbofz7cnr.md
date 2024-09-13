@@ -13,7 +13,7 @@ tags: code-review, javascript, websecurity, var-let-const
 
 ## **Introduction:**
 
-Hey fellow JavaScript fans! Today, we’re going on a cool journey to understand the mysterious ‘var’ word in JavaScript. It’s all about how we declare and use variables in our code. We’ll find out why ‘var’ might not be the best choice sometimes. Get ready for an exciting adventure where we’ll learn lots of interesting stuff. Let’s dive in and explore the amazing world of ‘var’ in JavaScript together!
+Hey JavaScript fans! Today, we'll explore how to declare variables in JavaScript and why 'var' might not always be the best choice. Let's dive in!
 
 ## Difference between Var, Let and Const in JavaScript.
 
@@ -27,7 +27,7 @@ Hey fellow JavaScript fans! Today, we’re going on a cool journey to understand
 ║ const ║ Block scope ║ Not allowed ║  
 ╚═════════════╩═════════════════╩════════════════╝
 
-#### Why Shouldn’t We Use Var in JavaScript?
+## Why Shouldn’t We Use Var in JavaScript?
 
 1. **Function Scope vs. Block Scope:**
     
