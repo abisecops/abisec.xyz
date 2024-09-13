@@ -60,7 +60,7 @@ Today we are going to check s3 bucket security:
 6. Download all s3 bucket files from s3 to [localhost](http://localhost) using awscli:
     
     ```bash
-    aws s3 sync s3://$bucket_name/ ~/Documents/HiCare --no-sign-request --region ap-south-1
+    aws s3 sync s3://$bucket_name/ ~/Documents/ab1sec --no-sign-request --region ap-south-1
     ```
     
 7. Now this is how we can get many sensitive data from the company. This may lead to huge risk to the company.
