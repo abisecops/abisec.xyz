@@ -97,8 +97,6 @@ console.log(i); // Output: 5 (Variable accessible outside the loop)
 
 ### **Conclusion:**
 
-**Dear coders,**
+**Although ‘var’ has its own charm and history, it can sometimes cause confusion and unexpected behaviour.**
 
-**Although ‘var’ has its own charm and history, it can sometimes cause confusion and unexpected behavior.**
-
-That’s why, avoid var and adopt let and const in JavaScript. They offer better control, help us organize our code, and make sure everything works smoothly. So, keep coding, keep exploring, and remember to choose your words wisely in JavaScript! Happy coding adventures!
+That’s why you should use `let` and `const` instead of `var` in JavaScript. They give you better control, help keep your code neat, and make sure things run smoothly. So, keep coding, keep exploring, and remember to choose your words wisely in JavaScript! Happy coding!
