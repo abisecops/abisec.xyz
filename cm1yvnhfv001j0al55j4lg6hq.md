@@ -11,8 +11,6 @@ tags: cloud, aws, amazon-web-services, volume, gp3
 
 ---
 
-## Table of contents
-
 ### Tasks:
 
 * Create a volume with the following requirements:
