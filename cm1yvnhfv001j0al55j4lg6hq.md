@@ -11,7 +11,7 @@ tags: cloud, aws, amazon-web-services, volume, gp3
 
 ---
 
-### Tasks:
+### Tasks
 
 * Create a volume with the following requirements:
     
@@ -22,7 +22,7 @@ tags: cloud, aws, amazon-web-services, volume, gp3
 * Volume size must be 2 GiB.
     
 
-### Steps:
+### Steps
 
 1. Go to volumes :
     
