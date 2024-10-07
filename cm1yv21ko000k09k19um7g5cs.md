@@ -11,7 +11,7 @@ tags: cloud, aws, cloud-computing, amazon-web-services, securitygroups
 
 ---
 
-### Tasks:
+### Tasks
 
 For this task, create a security group under default VPC with the following requirements:
 
@@ -24,7 +24,7 @@ For this task, create a security group under default VPC with the following requ
 * Add another inbound rule of type `SSH`, with port range of `22`. Enter the source CIDR range of `0.0.0.0/0`.
     
 
-### Steps:
+### Steps
 
 1. Find the service: Security Groups
     
