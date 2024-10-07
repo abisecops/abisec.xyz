@@ -11,8 +11,6 @@ tags: cloud, aws, cloud-computing, amazon-web-services, securitygroups
 
 ---
 
-## Table of contents
-
 ### Tasks:
 
 For this task, create a security group under default VPC with the following requirements:
