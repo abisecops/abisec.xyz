@@ -40,7 +40,7 @@ For this task, create one `publicly` accessible RDS instance using a free tier t
     
 4. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728406854873/4aa69c95-5ea6-432e-ba88-8506593948df.png align="center")
     
-    All is going all but I forget to select **Publicly Accessible. Modify now.**
+    Everything is going well, but I forgot to select **Publicly Accessible**. I'll modify it now.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728407517743/da7cf461-715b-43a1-a095-c2d7d7b0dfd5.png align="center")
     
