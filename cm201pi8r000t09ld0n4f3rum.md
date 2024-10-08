@@ -6,6 +6,7 @@ datePublished: Tue Oct 08 2024 06:14:04 GMT+0000 (Coordinated Universal Time)
 cuid: cm201pi8r000t09ld0n4f3rum
 slug: create-volume-snapshot
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1728366989441/20bd8c36-b289-45c5-8ef3-c48da7b4a48e.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1728404850732/925f1e1f-5602-4a7f-9ad4-6e34400e9faa.png
 tags: cloud, aws, development, cloud-computing, devops, amazon-web-services, snapshot, devops-articles
 
 ---
