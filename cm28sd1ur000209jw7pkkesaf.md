@@ -22,7 +22,7 @@ tags: kubernetes, devops, k8s, devops-articles, namespaces, pods
 * Ensure to specify the image tag as `nginx:latest`.
     
 
-### Tasks
+### Steps
 
 1. First create the namespace named dev.
     
