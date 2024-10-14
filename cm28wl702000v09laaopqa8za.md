@@ -7,7 +7,7 @@ cuid: cm28wl702000v09laaopqa8za
 slug: deploy-replica-set-in-kubernetes-cluster
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1728902588050/cfcdcf65-e16d-4d31-a2a8-1a994f95f678.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1728903621775/16282ff8-7cdd-4264-bf47-fc75acd92293.png
-tags: kubernetes, devops, k8s, devops-articles, deploymentmanagement-replicaset-rollingupdates-rollback-kubernetes-scaling-deploymenterrors-applicationconfiguration-resourcemanagement-imagepullerror-insufficientpermission-limitranges-quota
+tags: kubernetes, devops, k8s, devops-articles
 
 ---
 
