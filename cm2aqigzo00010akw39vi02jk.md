@@ -49,7 +49,7 @@ tags: kubernetes, developer, devops, k8s, cronjob, devops-articles
     ```
     
     ```bash
-    cat <<EOF>cronjob.yaml
+    cat <<EOF > cronjob.yaml
     apiVersion: batch/v1
     kind: CronJob
     metadata:
