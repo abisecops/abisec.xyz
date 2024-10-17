@@ -108,7 +108,7 @@ tags: code-review, python, hacking, flask, server-side-rendering, web-security
 
 ```python
  user_input = request.form['user_input']
-safe_input = escape(user_input)  # Manually escape or
+safe_input = escape(user_input) 
 template = f'''
     <h1>Hello, {safe_input}!</h1>
 '''
