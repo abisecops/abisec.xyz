@@ -121,7 +121,7 @@ tags: code-review, web-development, hacking, pentesting, server-side-template-in
 
 ### **Code Review**
 
-1. Vulnerable code
+1. Vulnerable code snippet
     
     ```python
         template = f'''
