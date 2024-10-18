@@ -155,7 +155,7 @@ tags: code-review, web-development, hacking, pentesting, server-side-template-in
         '''
         ```
         
-    * We can also use the built-in `escape` function to sanitize user input before rendering. If above prevention method is not be followed
+    * We can also use the built-in `escape` function to clean user input before rendering. If the above prevention method is not followed.
         
         ```python
         from flask import escape
