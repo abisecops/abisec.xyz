@@ -16,8 +16,8 @@ tags: code-review, web-development, hacking, pentesting, server-side-template-in
 1. Create a folder for the challenge.
     
     ```bash
-     mkdir ssti_ctf1_challenge
-     cd ssti_ctf1_challenge
+     mkdir ssti_ctf2_challenge
+     cd ssti_ctf2_challenge
     ```
     
 2. Set up the environment
