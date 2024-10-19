@@ -5,6 +5,7 @@ seoDescription: "Learn to exploit Large Language Model APIs vulnerabilities, det
 datePublished: Sat Oct 19 2024 17:57:19 GMT+0000 (Coordinated Universal Time)
 cuid: cm2ggo9ir000e09kzew7t5g6x
 slug: exploiting-llm-apis-with-excessive-agency
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729360882925/a0e854b8-b5dd-4c77-a95e-09f9e1bbf6d9.png
 tags: hacking, web-security, llm, chatgpt, sqli
 
 ---
