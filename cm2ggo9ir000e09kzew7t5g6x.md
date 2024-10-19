@@ -5,8 +5,8 @@ seoDescription: "Learn to exploit Large Language Model APIs vulnerabilities, det
 datePublished: Sat Oct 19 2024 17:57:19 GMT+0000 (Coordinated Universal Time)
 cuid: cm2ggo9ir000e09kzew7t5g6x
 slug: mapping-llm-api-attack-surface
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729360882925/a0e854b8-b5dd-4c77-a95e-09f9e1bbf6d9.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1729360889356/e2058ea7-6223-46b6-b7e4-2583ecdd06ae.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729361003223/6d78f390-cf24-4879-bcc0-2dbe2acb88ce.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1729361013862/a81e7dd2-117a-4c29-b026-c7c2fcbf2111.png
 tags: hacking, web-security, llm, chatgpt, sqli
 
 ---
