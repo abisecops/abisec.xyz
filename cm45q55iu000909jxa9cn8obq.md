@@ -6,7 +6,7 @@ datePublished: Sun Dec 01 2024 14:56:20 GMT+0000 (Coordinated Universal Time)
 cuid: cm45q55iu000909jxa9cn8obq
 slug: configuring-a-private-rds-instance-for-application-development
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733063061400/284ab9ba-d9c4-4fc5-b98c-b3957e9fc3a4.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1733064961802/ced94660-287b-4c52-a86a-c4e034f1bdc0.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1733065132926/1d233939-8cf6-406a-89a7-fdbde669ac69.png
 tags: cloud, aws, cloud-computing, rds
 
 ---
