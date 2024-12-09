@@ -190,7 +190,6 @@ tags: cloud, aws, cloud-computing, devops, amazon-web-services, vpc
                     
         * Click **Launch Instance**.
             
-        
-        1. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733758110060/ba849ca5-2965-455e-8031-8b36f3ba100c.png align="center")
+            ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733758110060/ba849ca5-2965-455e-8031-8b36f3ba100c.png align="center")
             
             **Congrats!** You have successfully completed the task.
