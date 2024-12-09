@@ -40,7 +40,7 @@ tags: cloud, aws, cloud-computing, devops, amazon-web-services, vpc
             
         * **Tenancy**: Default
             
-            *Click* ***Create VPC****.*
+            *Click* ***Create VPC***\*.\*
             
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733755457079/b1dc1192-17e7-46ca-a68a-87dd79916798.png align="center")
@@ -63,7 +63,7 @@ tags: cloud, aws, cloud-computing, devops, amazon-web-services, vpc
             
             ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733755791111/1ee7bc82-2a9c-4b8f-ad9c-150e9f9de2dc.png align="center")
             
-    5. ### **Create the Subnet**
+    5. **Create the Subnet**
         
         a) In the VPC Dashboard, click **Create Subnet**.
         
@@ -164,7 +164,7 @@ tags: cloud, aws, cloud-computing, devops, amazon-web-services, vpc
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733757850240/f2406381-7020-4200-980d-0d55c3529b77.png align="center")
         
-    16. ### **Launch the EC2 Instance**
+    16. **Launch the EC2 Instance**
         
         * Go to the **EC2 Dashboard** and click **Launch Instances**.
             
