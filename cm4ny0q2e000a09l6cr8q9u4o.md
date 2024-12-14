@@ -5,8 +5,8 @@ seoDescription: "Learn to create a user with a specific UID and home directory o
 datePublished: Sat Dec 14 2024 08:56:42 GMT+0000 (Coordinated Universal Time)
 cuid: cm4ny0q2e000a09l6cr8q9u4o
 slug: custom-apache-user-setup
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734164930698/6a56efad-1283-4fca-ac31-f724e6c75b73.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1734166579470/bd5269a2-91f4-47de-93ce-eea78fe54526.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734166719148/1beba79a-7e5b-40b0-90ea-1b95e42c5cb3.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1734166727301/eca35501-ee58-4e1a-bd99-c267fdd8b99e.png
 tags: linux, linux-for-beginners, linux-basics, linux-commands
 
 ---
